@@ -1,0 +1,18 @@
+.Chrono{
+  margin:20px 0;
+}
+
+.Chrono .name{
+  font-size:2em;
+  text-transform: uppercase;
+}
+
+.Chrono .hours,
+.Chrono .minutes,
+.Chrono .seconds,
+.Chrono .milliseconds{
+  font-family: monospace;
+  font-weight: bold;
+  font-size:2em;
+  text-align: center;
+}
